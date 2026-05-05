@@ -5,7 +5,7 @@ description — highlighting missing skills and providing
 actionable improvement tips.
 
 ## 🔗 Live Demo
-[Click here to view the live app](#) ← Add your deployed link
+[Click here to view the live app](http://127.0.0.1:8050/)
 
 ## 📌 Project Overview
 Job seekers often struggle to tailor their CVs to specific roles.
