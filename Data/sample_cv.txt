@@ -1,0 +1,28 @@
+John Doe
+Email: john@email.com | LinkedIn: linkedin.com/in/johndoe
+
+SUMMARY
+Experienced data scientist with 4 years of experience building
+machine learning models and data pipelines. Skilled in Python,
+SQL, and cloud platforms.
+
+SKILLS
+Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Power BI,
+Git, Docker, AWS
+
+EXPERIENCE
+Data Scientist | ABC Tech | 2021 - Present
+- Built customer churn prediction model improving retention by 18%
+- Developed ETL pipelines using Python and SQL
+- Created dashboards in Power BI for business stakeholders
+
+Junior Data Analyst | XYZ Corp | 2020 - 2021
+- Analysed sales data using Python and Excel
+- Automated monthly reports saving 5 hours per week
+
+EDUCATION
+BSc Computer Science | University of Lagos | 2020
+
+CERTIFICATIONS
+Google Data Analytics Certificate
+AWS Cloud Practitioner
