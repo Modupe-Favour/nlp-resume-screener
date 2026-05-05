@@ -13,6 +13,7 @@ app = dash.Dash(__name__,
                 external_stylesheets=[dbc.themes.FLATLY],
                 suppress_callback_exceptions=True)
 app.title = "NLP Resume Screener"
+server = app.server
 
 # ── Colour Palette ───────────────────────────────────────────
 NAVY = "#1B3A5C"
@@ -389,4 +390,4 @@ def analyse_cv(n_clicks, cv_text, job_text):
 
 # ── Run App ──────────────────────────────────────────────────
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run_server(debug=True)
